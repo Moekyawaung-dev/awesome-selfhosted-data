@@ -1,0 +1,8 @@
+name: "My Awesome Software"
+website _url: "https://example.com"
+source _code_url:"https://github.com/..."
+scription: "Short description here."
+censes:
+_ MIT
+gs:
+_ file-sharing
